@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+#wrapper{
+    width:1024px;
+    margin: 0 auto;
+}
+
+#topo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top:20px;
+}
+
+#logo img{
+    width: 200px;
+}
+
+#menu{
+    display: flex;
+    align-items: center;
+}
+
+.lupa{
+    width: 50px;
+}
+
+.messenger{
+    width: 25px;
+}
